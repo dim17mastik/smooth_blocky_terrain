@@ -1,5 +1,7 @@
 # Smooth Blocky Terrain
 
+![Smooth Blocky Terrain](screenshots/main.png)
+
 Smooth voxel terrain using VoxelMesherBlocky.
 
 Made with [Voxel Tools for Godot](https://github.com/Zylann/godot_voxel).
