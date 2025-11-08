@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bawi2gp67b01o"
+path="res://.godot/imported/fd.obj-39cf0e697ffff39a87c0e770865d93e6.mesh"
+
+[deps]
+
+files=["res://.godot/imported/fd.obj-39cf0e697ffff39a87c0e770865d93e6.mesh"]
+
+source_file="res://meshes/stone/fd.obj"
+dest_files=["res://.godot/imported/fd.obj-39cf0e697ffff39a87c0e770865d93e6.mesh", "res://.godot/imported/fd.obj-39cf0e697ffff39a87c0e770865d93e6.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

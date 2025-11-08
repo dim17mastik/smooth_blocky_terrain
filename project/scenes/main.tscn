@@ -1,0 +1,338 @@
+[gd_scene load_steps=123 format=3 uid="uid://cg2vci4ppekk4"]
+
+[ext_resource type="ArrayMesh" uid="uid://dqwkgevem5px6" path="res://meshes/grass/17.obj" id="1_1v6qk"]
+[ext_resource type="ArrayMesh" uid="uid://dsseaba280yl1" path="res://meshes/grass/2b.obj" id="2_augu2"]
+[ext_resource type="ArrayMesh" uid="uid://dwl6pe8x3k7to" path="res://meshes/grass/3f.obj" id="3_tm6hj"]
+[ext_resource type="ArrayMesh" uid="uid://dg7idghgdq1db" path="res://meshes/grass/4d.obj" id="4_kf5aa"]
+[ext_resource type="ArrayMesh" uid="uid://cd3hxswiml8de" path="res://meshes/grass/5f.obj" id="5_t5ykj"]
+[ext_resource type="ArrayMesh" uid="uid://derantdyjhxfv" path="res://meshes/grass/71.obj" id="6_e755i"]
+[ext_resource type="ArrayMesh" uid="uid://dqaqf0sgkbxwm" path="res://meshes/grass/77.obj" id="7_ro3en"]
+[ext_resource type="ArrayMesh" uid="uid://dgqq5m5wk0dpj" path="res://meshes/grass/7f.obj" id="8_od4ux"]
+[ext_resource type="ArrayMesh" uid="uid://dgboyuewe4tk4" path="res://meshes/grass/8e.obj" id="9_xhfw6"]
+[ext_resource type="ArrayMesh" uid="uid://breq1nh7gvrg8" path="res://meshes/grass/af.obj" id="10_1epgm"]
+[ext_resource type="ArrayMesh" uid="uid://bxgn1e6jd3ja4" path="res://meshes/grass/b2.obj" id="11_152kg"]
+[ext_resource type="ArrayMesh" uid="uid://c5iol2nvj174i" path="res://meshes/grass/bb.obj" id="12_r4e17"]
+[ext_resource type="ArrayMesh" uid="uid://crfui45nsmrl5" path="res://meshes/grass/bf.obj" id="13_y57op"]
+[ext_resource type="ArrayMesh" uid="uid://bxcg5plx8svmi" path="res://meshes/grass/cf.obj" id="14_mlv25"]
+[ext_resource type="ArrayMesh" uid="uid://cs46765ghp1ek" path="res://meshes/grass/d4.obj" id="15_a82wo"]
+[ext_resource type="ArrayMesh" uid="uid://c483xfsru5dgc" path="res://meshes/grass/dd.obj" id="16_gdvew"]
+[ext_resource type="ArrayMesh" uid="uid://cp4867s37et6x" path="res://meshes/grass/df.obj" id="17_kjtvk"]
+[ext_resource type="ArrayMesh" uid="uid://dngrb33rekxt3" path="res://meshes/grass/e8.obj" id="18_xrs0c"]
+[ext_resource type="ArrayMesh" uid="uid://nglr24140b0n" path="res://meshes/grass/ee.obj" id="19_xljpf"]
+[ext_resource type="ArrayMesh" uid="uid://bjx1s1wg8hcev" path="res://meshes/grass/ef.obj" id="20_j4bwh"]
+[ext_resource type="ArrayMesh" uid="uid://fwk7ypgvmeps" path="res://meshes/grass/f3.obj" id="21_ksmap"]
+[ext_resource type="ArrayMesh" uid="uid://chdamcvhrlws5" path="res://meshes/grass/f5.obj" id="22_ygd8o"]
+[ext_resource type="ArrayMesh" uid="uid://cdosktdl6ivlf" path="res://meshes/grass/f7.obj" id="23_2s0kr"]
+[ext_resource type="ArrayMesh" uid="uid://codw7h7exgceq" path="res://meshes/grass/fa.obj" id="24_xaipn"]
+[ext_resource type="ArrayMesh" uid="uid://dpriptd7181vn" path="res://meshes/grass/fb.obj" id="25_ndrjj"]
+[ext_resource type="ArrayMesh" uid="uid://brt1counx6rvq" path="res://meshes/grass/fc.obj" id="26_ih3m7"]
+[ext_resource type="ArrayMesh" uid="uid://df5ebswekc640" path="res://meshes/grass/fd.obj" id="27_11yus"]
+[ext_resource type="ArrayMesh" uid="uid://chm5xei0syo72" path="res://meshes/grass/fe.obj" id="28_b6ruc"]
+[ext_resource type="ArrayMesh" uid="uid://8e2opbey3wue" path="res://meshes/stone/17.obj" id="29_155or"]
+[ext_resource type="ArrayMesh" uid="uid://4um1c36kxfrx" path="res://meshes/stone/2b.obj" id="30_vtx2l"]
+[ext_resource type="ArrayMesh" uid="uid://dm32mmfylwc1l" path="res://meshes/stone/3f.obj" id="31_63lxy"]
+[ext_resource type="ArrayMesh" uid="uid://cp2vwoh3ibgax" path="res://meshes/stone/4d.obj" id="32_fjhjs"]
+[ext_resource type="ArrayMesh" uid="uid://cn7300ps2iee0" path="res://meshes/stone/5f.obj" id="33_bfu41"]
+[ext_resource type="ArrayMesh" uid="uid://c6at0637o5qwh" path="res://meshes/stone/71.obj" id="34_r4ag1"]
+[ext_resource type="ArrayMesh" uid="uid://bai46gdyysdev" path="res://meshes/stone/77.obj" id="35_v0wtd"]
+[ext_resource type="ArrayMesh" uid="uid://dk81650plopvt" path="res://meshes/stone/7f.obj" id="36_sgvw8"]
+[ext_resource type="ArrayMesh" uid="uid://lurtvvpwhsp8" path="res://meshes/stone/8e.obj" id="37_6nfnn"]
+[ext_resource type="ArrayMesh" uid="uid://dexet5epohf44" path="res://meshes/stone/af.obj" id="38_4ue30"]
+[ext_resource type="ArrayMesh" uid="uid://c7padtbtleeqi" path="res://meshes/stone/b2.obj" id="39_k42av"]
+[ext_resource type="ArrayMesh" uid="uid://d0lj733d56bhe" path="res://meshes/stone/bb.obj" id="40_gr8w0"]
+[ext_resource type="ArrayMesh" uid="uid://bk1k5lmlf7pcu" path="res://meshes/stone/bf.obj" id="41_673bd"]
+[ext_resource type="ArrayMesh" uid="uid://be2qh23w7jtll" path="res://meshes/stone/cf.obj" id="42_akjxb"]
+[ext_resource type="ArrayMesh" uid="uid://co3q5kj1xslw" path="res://meshes/stone/d4.obj" id="43_vrx01"]
+[ext_resource type="ArrayMesh" uid="uid://cgxqorewnauqg" path="res://meshes/stone/dd.obj" id="44_1uevf"]
+[ext_resource type="ArrayMesh" uid="uid://xbwpc8tvyqd" path="res://meshes/stone/df.obj" id="45_tc087"]
+[ext_resource type="ArrayMesh" uid="uid://cur5qyaisgus1" path="res://meshes/stone/e8.obj" id="46_73205"]
+[ext_resource type="ArrayMesh" uid="uid://bgggnu4s6jdvt" path="res://meshes/stone/ee.obj" id="47_0tljd"]
+[ext_resource type="ArrayMesh" uid="uid://d0ynbqaeopom" path="res://meshes/stone/ef.obj" id="48_mgpkq"]
+[ext_resource type="ArrayMesh" uid="uid://ibvo2cjl02lw" path="res://meshes/stone/f3.obj" id="49_xmrkg"]
+[ext_resource type="ArrayMesh" uid="uid://cfb4vfdhub2hr" path="res://meshes/stone/f5.obj" id="50_wvlrk"]
+[ext_resource type="ArrayMesh" uid="uid://cwssc2w8u54g2" path="res://meshes/stone/f7.obj" id="51_engxj"]
+[ext_resource type="ArrayMesh" uid="uid://21n3kjyelbau" path="res://meshes/stone/fa.obj" id="52_raiwf"]
+[ext_resource type="ArrayMesh" uid="uid://bkiorjya4i74y" path="res://meshes/stone/fb.obj" id="53_roort"]
+[ext_resource type="ArrayMesh" uid="uid://cwu6h8yiqi4th" path="res://meshes/stone/fc.obj" id="54_gm02q"]
+[ext_resource type="ArrayMesh" uid="uid://bawi2gp67b01o" path="res://meshes/stone/fd.obj" id="55_07pt3"]
+[ext_resource type="Shader" uid="uid://bc2lyd7umqukb" path="res://shaders/terrain.gdshader" id="56_37xlc"]
+[ext_resource type="Script" uid="uid://cbpcc8j3050tc" path="res://scripts/terrain.gd" id="57_83607"]
+[ext_resource type="Texture2D" uid="uid://cj1glisd5w27m" path="res://images/atlas.png" id="57_augu2"]
+[ext_resource type="Script" uid="uid://d33yh0cjujpjc" path="res://scripts/viewer.gd" id="59_tm6hj"]
+
+[sub_resource type="Environment" id="Environment_kq58d"]
+background_mode = 1
+ambient_light_source = 2
+ambient_light_color = Color(0.29219002, 0.29219005, 0.29219002, 1)
+
+[sub_resource type="VoxelBlockyModelEmpty" id="VoxelBlockyModelEmpty_0arob"]
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_k1udn"]
+collision_enabled_0 = true
+mesh = ExtResource("1_1v6qk")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_ywjan"]
+collision_enabled_0 = true
+mesh = ExtResource("2_augu2")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_8dc3g"]
+collision_enabled_0 = true
+mesh = ExtResource("3_tm6hj")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_htgcl"]
+collision_enabled_0 = true
+mesh = ExtResource("4_kf5aa")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_u81y6"]
+collision_enabled_0 = true
+mesh = ExtResource("5_t5ykj")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_rt5wr"]
+collision_enabled_0 = true
+mesh = ExtResource("6_e755i")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_d5iia"]
+collision_enabled_0 = true
+mesh = ExtResource("7_ro3en")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_asu84"]
+collision_enabled_0 = true
+mesh = ExtResource("8_od4ux")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_qwt6e"]
+collision_enabled_0 = true
+mesh = ExtResource("9_xhfw6")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_g5xqc"]
+collision_enabled_0 = true
+mesh = ExtResource("10_1epgm")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_s4o1y"]
+collision_enabled_0 = true
+mesh = ExtResource("11_152kg")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_5aa3q"]
+collision_enabled_0 = true
+mesh = ExtResource("12_r4e17")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_bmvma"]
+collision_enabled_0 = true
+mesh = ExtResource("13_y57op")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_86lig"]
+collision_enabled_0 = true
+mesh = ExtResource("14_mlv25")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_ldnlw"]
+collision_enabled_0 = true
+mesh = ExtResource("15_a82wo")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_oosfy"]
+collision_enabled_0 = true
+mesh = ExtResource("16_gdvew")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_nf4f2"]
+collision_enabled_0 = true
+mesh = ExtResource("17_kjtvk")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_xkvoa"]
+collision_enabled_0 = true
+mesh = ExtResource("18_xrs0c")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_37eu1"]
+collision_enabled_0 = true
+mesh = ExtResource("19_xljpf")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_0wkqm"]
+collision_enabled_0 = true
+mesh = ExtResource("20_j4bwh")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_ibca3"]
+collision_enabled_0 = true
+mesh = ExtResource("21_ksmap")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_1slqb"]
+collision_enabled_0 = true
+mesh = ExtResource("22_ygd8o")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_uo83y"]
+collision_enabled_0 = true
+mesh = ExtResource("23_2s0kr")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_wm5rm"]
+collision_enabled_0 = true
+mesh = ExtResource("24_xaipn")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_ekl5k"]
+collision_enabled_0 = true
+mesh = ExtResource("25_ndrjj")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_fdpg8"]
+collision_enabled_0 = true
+mesh = ExtResource("26_ih3m7")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_rpys8"]
+collision_enabled_0 = true
+mesh = ExtResource("27_11yus")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_6gr3f"]
+collision_enabled_0 = true
+mesh = ExtResource("28_b6ruc")
+
+[sub_resource type="VoxelBlockyModelCube" id="VoxelBlockyModelCube_dij0e"]
+atlas_size_in_tiles = Vector2i(2, 2)
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_ppx11"]
+collision_enabled_0 = true
+mesh = ExtResource("29_155or")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_1yv1y"]
+collision_enabled_0 = true
+mesh = ExtResource("30_vtx2l")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_5yh34"]
+collision_enabled_0 = true
+mesh = ExtResource("31_63lxy")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_pjuso"]
+collision_enabled_0 = true
+mesh = ExtResource("32_fjhjs")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_23xmf"]
+collision_enabled_0 = true
+mesh = ExtResource("33_bfu41")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_swlj1"]
+collision_enabled_0 = true
+mesh = ExtResource("34_r4ag1")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_yysqy"]
+collision_enabled_0 = true
+mesh = ExtResource("35_v0wtd")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_n5t1e"]
+collision_enabled_0 = true
+mesh = ExtResource("36_sgvw8")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_h6isl"]
+collision_enabled_0 = true
+mesh = ExtResource("37_6nfnn")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_53bls"]
+collision_enabled_0 = true
+mesh = ExtResource("38_4ue30")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_lwnsi"]
+collision_enabled_0 = true
+mesh = ExtResource("39_k42av")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_41lik"]
+collision_enabled_0 = true
+mesh = ExtResource("40_gr8w0")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_jbvwl"]
+collision_enabled_0 = true
+mesh = ExtResource("41_673bd")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_sn1fb"]
+collision_enabled_0 = true
+mesh = ExtResource("42_akjxb")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_yvsr8"]
+collision_enabled_0 = true
+mesh = ExtResource("43_vrx01")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_vieuh"]
+collision_enabled_0 = true
+mesh = ExtResource("44_1uevf")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_yjja3"]
+collision_enabled_0 = true
+mesh = ExtResource("45_tc087")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_l0gw7"]
+collision_enabled_0 = true
+mesh = ExtResource("46_73205")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_inymm"]
+collision_enabled_0 = true
+mesh = ExtResource("47_0tljd")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_jcxqu"]
+collision_enabled_0 = true
+mesh = ExtResource("48_mgpkq")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_0arob"]
+collision_enabled_0 = true
+mesh = ExtResource("49_xmrkg")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_dij0e"]
+collision_enabled_0 = true
+mesh = ExtResource("50_wvlrk")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_wat4s"]
+collision_enabled_0 = true
+mesh = ExtResource("51_engxj")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_m74q3"]
+collision_enabled_0 = true
+mesh = ExtResource("52_raiwf")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_tko6h"]
+collision_enabled_0 = true
+mesh = ExtResource("53_roort")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_am8a1"]
+collision_enabled_0 = true
+mesh = ExtResource("54_gm02q")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_smeu8"]
+collision_enabled_0 = true
+mesh = ExtResource("55_07pt3")
+
+[sub_resource type="VoxelBlockyModelMesh" id="VoxelBlockyModelMesh_vke2r"]
+collision_enabled_0 = true
+mesh = ExtResource("55_07pt3")
+
+[sub_resource type="VoxelBlockyModelCube" id="VoxelBlockyModelCube_f3y11"]
+atlas_size_in_tiles = Vector2i(2, 2)
+tile_left = Vector2i(1, 0)
+tile_right = Vector2i(1, 0)
+tile_bottom = Vector2i(1, 0)
+tile_top = Vector2i(1, 0)
+tile_back = Vector2i(1, 0)
+tile_front = Vector2i(1, 0)
+
+[sub_resource type="VoxelBlockyLibrary" id="VoxelBlockyLibrary_6seew"]
+models = Array[VoxelBlockyModel]([SubResource("VoxelBlockyModelEmpty_0arob"), SubResource("VoxelBlockyModelMesh_k1udn"), SubResource("VoxelBlockyModelMesh_ywjan"), SubResource("VoxelBlockyModelMesh_8dc3g"), SubResource("VoxelBlockyModelMesh_htgcl"), SubResource("VoxelBlockyModelMesh_u81y6"), SubResource("VoxelBlockyModelMesh_rt5wr"), SubResource("VoxelBlockyModelMesh_d5iia"), SubResource("VoxelBlockyModelMesh_asu84"), SubResource("VoxelBlockyModelMesh_qwt6e"), SubResource("VoxelBlockyModelMesh_g5xqc"), SubResource("VoxelBlockyModelMesh_s4o1y"), SubResource("VoxelBlockyModelMesh_5aa3q"), SubResource("VoxelBlockyModelMesh_bmvma"), SubResource("VoxelBlockyModelMesh_86lig"), SubResource("VoxelBlockyModelMesh_ldnlw"), SubResource("VoxelBlockyModelMesh_oosfy"), SubResource("VoxelBlockyModelMesh_nf4f2"), SubResource("VoxelBlockyModelMesh_xkvoa"), SubResource("VoxelBlockyModelMesh_37eu1"), SubResource("VoxelBlockyModelMesh_0wkqm"), SubResource("VoxelBlockyModelMesh_ibca3"), SubResource("VoxelBlockyModelMesh_1slqb"), SubResource("VoxelBlockyModelMesh_uo83y"), SubResource("VoxelBlockyModelMesh_wm5rm"), SubResource("VoxelBlockyModelMesh_ekl5k"), SubResource("VoxelBlockyModelMesh_fdpg8"), SubResource("VoxelBlockyModelMesh_rpys8"), SubResource("VoxelBlockyModelMesh_6gr3f"), SubResource("VoxelBlockyModelCube_dij0e"), SubResource("VoxelBlockyModelMesh_ppx11"), SubResource("VoxelBlockyModelMesh_1yv1y"), SubResource("VoxelBlockyModelMesh_5yh34"), SubResource("VoxelBlockyModelMesh_pjuso"), SubResource("VoxelBlockyModelMesh_23xmf"), SubResource("VoxelBlockyModelMesh_swlj1"), SubResource("VoxelBlockyModelMesh_yysqy"), SubResource("VoxelBlockyModelMesh_n5t1e"), SubResource("VoxelBlockyModelMesh_h6isl"), SubResource("VoxelBlockyModelMesh_53bls"), SubResource("VoxelBlockyModelMesh_lwnsi"), SubResource("VoxelBlockyModelMesh_41lik"), SubResource("VoxelBlockyModelMesh_jbvwl"), SubResource("VoxelBlockyModelMesh_sn1fb"), SubResource("VoxelBlockyModelMesh_yvsr8"), SubResource("VoxelBlockyModelMesh_vieuh"), SubResource("VoxelBlockyModelMesh_yjja3"), SubResource("VoxelBlockyModelMesh_l0gw7"), SubResource("VoxelBlockyModelMesh_inymm"), SubResource("VoxelBlockyModelMesh_jcxqu"), SubResource("VoxelBlockyModelMesh_0arob"), SubResource("VoxelBlockyModelMesh_dij0e"), SubResource("VoxelBlockyModelMesh_wat4s"), SubResource("VoxelBlockyModelMesh_m74q3"), SubResource("VoxelBlockyModelMesh_tko6h"), SubResource("VoxelBlockyModelMesh_am8a1"), SubResource("VoxelBlockyModelMesh_smeu8"), SubResource("VoxelBlockyModelMesh_vke2r"), SubResource("VoxelBlockyModelCube_f3y11")])
+
+[sub_resource type="VoxelMesherBlocky" id="VoxelMesherBlocky_7dm0k"]
+library = SubResource("VoxelBlockyLibrary_6seew")
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_vke2r"]
+render_priority = 0
+shader = ExtResource("56_37xlc")
+shader_parameter/atlas = ExtResource("57_augu2")
+
+[node name="Main" type="Node"]
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment_kq58d")
+
+[node name="VoxelTerrain" type="VoxelTerrain" parent="."]
+mesher = SubResource("VoxelMesherBlocky_7dm0k")
+material_override = SubResource("ShaderMaterial_vke2r")
+script = ExtResource("57_83607")
+
+[node name="Sun" type="DirectionalLight3D" parent="."]
+transform = Transform3D(0.89879405, -0.29332757, 0.32577324, 0, 0.7431448, 0.6691306, -0.43837115, -0.6014106, 0.6679341, 0, 0, 0)
+
+[node name="Viewer" type="Node3D" parent="."]
+script = ExtResource("59_tm6hj")
+
+[node name="VoxelViewer" type="VoxelViewer" parent="Viewer"]
+
+[node name="Camera" type="Camera3D" parent="Viewer"]
+transform = Transform3D(0.7727692, -0.31450272, 0.5512856, 0, 0.8685943, 0.495524, -0.6346871, -0.38292572, 0.6712229, 75.82905, 55.005848, 77.38066)
+projection = 1
+size = 50.0
